@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107774007596",
+    "firebase_url": "https://arogyaauth.firebaseio.com",
+    "project_id": "arogyaauth",
+    "storage_bucket": "arogyaauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107774007596:android:97259e704a38beb011f489",
+        "android_client_info": {
+          "package_name": "com.example.arogyatracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107774007596-rpn52bp8hcpinj5egc841gtitjb2tqde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arogyatracker",
+            "certificate_hash": "23f8d9dfe504f089720f3cf86b0c0bb2395d69ab"
+          }
+        },
+        {
+          "client_id": "107774007596-ffdugsrd3f78hu92ak09dcboetlrig9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBlJp27kReyE0nOCmxqAaIwanEl4KZTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107774007596-ffdugsrd3f78hu92ak09dcboetlrig9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
